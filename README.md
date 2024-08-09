@@ -9,7 +9,7 @@
 My website/store: www.trixjoyce.store
 My blog: www.trixjoyce.co/blog 
 
-# Why I'm here
+# Why I'm here & about me
 I'm mostly here to test drive my coding projects since I'm (re)-learning how to code after almost 10 years of... not coding. I think the best way to learn is to just do it, at least when it comes to coding and such skills.
 I'm interested in web-based apps and building both games, websites and other applications. I'm very specific in my interest for especially web apps, and that's probably just me being the autistic person I am 👀
 So naturally I'm gravitating towards JavaScript and PHP and such.
