@@ -1,4 +1,4 @@
-<h2>Basic info</h2>
+# Basic info
 - 👋 Hi, I’m Tricia Johansson but online I go by the name Trix Joyce in most places.
 - 👀 I’m interested in coding, graphic design, and illustration. I'm especially interested in web development and building web apps and small browser games.
 - 🌱 I’m currently learning JavaScript and PHP but also refreshing my CSS skills.
@@ -9,7 +9,7 @@
 My website/store: www.trixjoyce.store
 My blog: www.trixjoyce.co/blog 
 
-<h2>Why I'm here</h2>
+# Why I'm here
 I'm mostly here to test drive my coding projects since I'm (re)-learning how to code after almost 10 years of... not coding. I think the best way to learn is to just do it, at least when it comes to coding and such skills.
 I'm interested in web-based apps and building both games, websites and other applications. I'm very specific in my interest for especially web apps, and that's probably just me being the autistic person I am 👀
 So naturally I'm gravitating towards JavaScript and PHP and such.
