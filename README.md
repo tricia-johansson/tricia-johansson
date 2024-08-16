@@ -9,12 +9,16 @@
 My website/store: www.trixjoyce.store
 My blog: www.trixjoyce.co/blog 
 
+![GIF](https://tricii.com/IMG_3856.GIF)
+
 # Why I'm here & about me
 I'm mostly here to test drive my coding projects since I'm (re)-learning how to code after almost 10 years of... not coding. I think the best way to learn is to just do it, at least when it comes to coding and such skills.
-I'm interested in web-based apps and building both games, websites and other applications. I'm very specific in my interest for especially web apps, and that's probably just me being the autistic person I am 👀
+I'm interested in web-based apps and building both games, websites and other applications. I'm very specific in my interest, especially in web apps, and that's probably just me being the autistic person I am 👀
 So naturally I'm gravitating towards JavaScript and PHP and such.
 
-Other interests are illustration/digital art, graphic design, writing, gaming, tabletop games (RPGs like D&D), and I also have a youtube channel so I'm into filmmaking and video as well.
+Other interests are illustration/digital art, graphic design, writing, creating music, gaming, and tabletop games (RPGs like D&D), and I also have a YouTube channel so I'm into filmmaking and video as well.
 One can not have too many interests 😄
 
-If you want to find out my other profiles on similar sites I'm on, please visit this link: www.trixjoyce.store/links or if it code/developer-specific visit the page www.trixjoyce.store/apps
+If you want to find out my other profiles on similar sites I'm on, please visit this link: www.trixjoyce.store/links, or if it code/developer-specific visit the page www.trixjoyce.store/apps
+
+![GIF](https://tricii.com/IMG_0698.GIF)
