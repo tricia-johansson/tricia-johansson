@@ -22,3 +22,13 @@ One can not have too many interests 😄
 If you want to find out my other profiles on similar sites I'm on, please visit this link: www.trixjoyce.store/links, or if it code/developer-specific visit the page www.trixjoyce.store/apps
 
 ![GIF](https://tricii.com/IMG_0698.GIF)
+
+# My main ongoing projects
+
+- World of Cagiu: https://github.com/tricia-johansson/World-of-Cagiu
+- Adventures of Avoranic: https://github.com/tricia-johansson/Adventures-of-Avoranic
+- Happiness Ninja: https://github.com/tricia-johansson/Happiness-Ninja
+
+# Other projects
+
+- Trixie and Truls: https://github.com/tricia-johansson/Trixie-and-Truls
