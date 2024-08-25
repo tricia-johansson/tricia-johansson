@@ -39,3 +39,7 @@ If you want to find out my other profiles on similar sites I'm on, please visit 
 
 - Trixie and Truls: [Source view on GitHub](https://github.com/tricia-johansson/Trixie-and-Truls) / [Live view in Browser](https://tricia-johansson.github.io/Trixie-and-Truls)
 - Trix Time: [Source view on GitHub](https://github.com/tricia-johansson/Trix-Time) / [Live view in Browser](https://tricia-johansson.github.io/Trix-Time)
+
+
+
+*© Copyright Tricia Johansson - www.tricia-johansson.github.io*
