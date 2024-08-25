@@ -32,3 +32,4 @@ If you want to find out my other profiles on similar sites I'm on, please visit 
 # Other projects
 
 - Trixie and Truls: https://github.com/tricia-johansson/Trixie-and-Truls
+- Trix Time: https://github.com/tricia-johansson/Trix-Time
