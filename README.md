@@ -42,4 +42,4 @@ If you want to find out my other profiles on similar sites I'm on, please visit 
 
 
 
-*© Copyright Tricia Johansson - www.tricia-johansson.github.io*
+*© Copyright Tricia Johansson - http://tricia-johansson.github.io*
