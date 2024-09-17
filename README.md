@@ -21,7 +21,7 @@ One can not have too many interests 😄
 
 If you want to find out my other profiles on similar sites I'm on, please visit this link: www.trixjoyce.store/links, or if it code/developer-specific visit the page www.trixjoyce.store/apps
 
-![GIF](https://trixjoyce.com/GitHub/IMG_0698.GIF)
+![GIF](https://raw.githubusercontent.com/tricia-johansson/tricia-johansson/main/IMG_0698.GIF)
 
 # ALL my Coding projects
 
