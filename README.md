@@ -6,8 +6,7 @@
 - 😄 My pronouns are she/her
 - ⚡ Fun fact: I used to work with coding and graphic design but it was like 10 years ago. Now I'm working on re-learning my skills.
 
-My website/store: www.trixjoyce.store
-My blog: www.trixjoyce.co/blog 
+My website/store: www.trixjoyce.com
 
 [![GIF](https://trixjoyce.com/GitHub/IMG_1134.GIF)](https://raw.githubusercontent.com/tricia-johansson/tricia-johansson/main/IMG_3856.GIF)
 
