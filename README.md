@@ -25,7 +25,7 @@ One can not have too many interests 😄
 
 ![GIF](https://raw.githubusercontent.com/tricia-johansson/tricia-johansson/main/IMG_0698.GIF)
 
-# ALL my Coding projects
+# ALL my Coding projects here on GitHub
 
 > [!IMPORTANT]
 > I'm still learning how to code and still pretty basic and have a huge journey ahead of me. Please be aware that these projects are highly experimental in nature!
