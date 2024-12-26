@@ -6,13 +6,13 @@
 - 😄 My pronouns are she/her
 - ⚡ Fun fact: I used to work with coding and graphic design but it was like 10 years ago. Now I'm working on re-learning my skills.
 
-[![itch.io link](https://img.itch.zone/aW1nLzE5MTM5NzAzLnBuZw==/original/3yDe2g.png)](https://trixjoyce.itch.io)
+[![itch.io banner](https://img.itch.zone/aW1nLzE5MTM5NzAzLnBuZw==/original/3yDe2g.png)](https://trixjoyce.itch.io)
 Visit my projects (games and apps) on itch.io! http://trixjoyce.itch.io
 
 My website: www.trixjoyce.com
 My blog: www.trixsaysthings.com
 
-[![GIF](https://trixjoyce.com/GitHub/IMG_1134.GIF)](https://raw.githubusercontent.com/tricia-johansson/tricia-johansson/main/IMG_3856.GIF)
+[![GIF]([https://trixjoyce.com/GitHub/IMG_1134.GIF](https://raw.githubusercontent.com/tricia-johansson/tricia-johansson/main/IMG_3856.GIF)](https://raw.githubusercontent.com/tricia-johansson/tricia-johansson/main/IMG_3856.GIF)
 
 # Why I'm here & about me
 I'm mostly here to test drive my coding projects since I'm (re)-learning how to code after almost 10 years of... not coding. I think the best way to learn is to just do it, at least when it comes to coding and such skills.
