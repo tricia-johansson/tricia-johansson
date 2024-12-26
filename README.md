@@ -12,7 +12,7 @@ Visit my projects (games and apps) on itch.io! http://trixjoyce.itch.io
 My website: www.trixjoyce.com
 My blog: www.trixsaysthings.com
 
-[![GIF]([https://trixjoyce.com/GitHub/IMG_1134.GIF](https://raw.githubusercontent.com/tricia-johansson/tricia-johansson/main/IMG_3856.GIF)](https://raw.githubusercontent.com/tricia-johansson/tricia-johansson/main/IMG_3856.GIF)
+[![GIF](https://raw.githubusercontent.com/tricia-johansson/tricia-johansson/main/IMG_3856.GIF)](https://raw.githubusercontent.com/tricia-johansson/tricia-johansson/main/IMG_3856.GIF)
 
 # Why I'm here & about me
 I'm mostly here to test drive my coding projects since I'm (re)-learning how to code after almost 10 years of... not coding. I think the best way to learn is to just do it, at least when it comes to coding and such skills.
