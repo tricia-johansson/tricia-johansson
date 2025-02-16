@@ -13,6 +13,8 @@ Visit my projects (games and apps) on itch.io! http://trixjoyce.itch.io
 - My website: www.trixjoyce.com
 - My blog: www.trixsaysthings.com
 
+I'm also on Neocities: http://www.trixjoyce.site
+
 [![GIF](https://raw.githubusercontent.com/tricia-johansson/tricia-johansson/main/IMG_3856.GIF)](https://raw.githubusercontent.com/tricia-johansson/tricia-johansson/main/IMG_3856.GIF)
 
 # Why I'm here & about me
