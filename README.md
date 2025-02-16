@@ -47,7 +47,8 @@ One can not have too many interests 😄
 - Trix Time: [Source view on GitHub](https://github.com/tricia-johansson/Trix-Time) / [Live view in Browser](https://tricia-johansson.github.io/Trix-Time)
 - DissociaTRIX: [Source view on GithHub](https://github.com/tricia-johansson/DissociaTRIX)
 - Trix Adventures Blog: [Live view in Browser](https://tricia-johansson.github.io/Trix-Adventures/)
+- Avoranic Web: [Source view on GitHub](https://github.com/tricia-johansson/Avoranic-Web)
 
 
 
-*© Copyright Tricia Johansson - http://tricia-johansson.github.io*
+*© Copyright Tricia Johansson*
