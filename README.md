@@ -1,6 +1,7 @@
 # Basic info
 - 👋 Hi, I’m Tricia Johansson but online I go by the name Trix Joyce in most places.
 - 👀 I’m interested in coding, graphic design, and illustration. I'm especially interested in web development and building web apps and small browser games.
+- 🎨 I also like to code as an art form, building layouts, pages and such with the editor as an canvas waiting to be filled with code! Sometimes the only purpose a my coding projects have are to be viewed as artistic expression. Nothing more, nothing less. Not everything has to have a deep meaning or function...
 - 🌱 I’m currently learning JavaScript and PHP but also refreshing my CSS skills.
 - 📫 If you want to contact me, send an email to trix.joyce@protonmail.com
 - 😄 My pronouns are she/her
