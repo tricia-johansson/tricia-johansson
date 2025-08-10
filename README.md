@@ -4,7 +4,7 @@
 - 🎨 I also like to code as an art form, building layouts, pages and such with the editor as a canvas waiting to be filled with code! Sometimes, the only purpose some of my coding projects have is to be viewed as artistic expression. Nothing more, nothing less. Not everything has to have a deep meaning or function...
 - 🌱 I’m currently learning JavaScript and PHP but also refreshing my CSS skills.
 - 📫 If you want to contact me, please go to my website http://trixhub.net
-- 😄 My pronouns are she/they.
+- 😄 My pronouns are they/she.
 - ⚡ Fun fact: I used to work with coding and graphic design but it was like 10 years ago. Now I'm working on re-learning my skills.
 
 [![itch.io banner](https://img.itch.zone/aW1nLzE5MTM5NzAzLnBuZw==/original/3yDe2g.png)](https://trixjoyce.itch.io)
