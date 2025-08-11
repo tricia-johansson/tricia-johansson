@@ -49,6 +49,7 @@ One can not have too many interests 😄
 - DissociaTRIX: [Source view on GithHub](https://github.com/tricia-johansson/DissociaTRIX)
 - Trix Adventures Blog: [Live view in Browser](https://tricia-johansson.github.io/Trix-Adventures/)
 - Avoranic Web: [Source view on GitHub](https://github.com/tricia-johansson/Avoranic-Web)
+- Late to Bloom: [Source view on GitHub](https://github.com/tricia-johansson/Late-to-Bloom) / [Live view in Browser](https://tricia-johansson.github.io/Late-to-Bloom/)
 
 
 
