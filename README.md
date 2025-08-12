@@ -10,9 +10,9 @@
 [![itch.io banner](https://img.itch.zone/aW1nLzE5MTM5NzAzLnBuZw==/original/3yDe2g.png)](https://trixjoyce.itch.io)
 Visit my projects (games and apps) on itch.io! http://trixjoyce.itch.io
 
-- My website: www.trixhub.net
+- My websites: www.trixhub.net & www.trixjoyce.com
 
-I'm also on Neocities: http://www.trixjoyce.site
+I'm also on Neocities: http://web.trixjoyce.com
 
 [![GIF](https://raw.githubusercontent.com/tricia-johansson/tricia-johansson/main/IMG_3856.GIF)](https://raw.githubusercontent.com/tricia-johansson/tricia-johansson/main/IMG_3856.GIF)
 
