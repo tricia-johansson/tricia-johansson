@@ -55,6 +55,6 @@ One can not have too many interests 😄
 
 - Music album interactive card: [Source view on GitHub](https://github.com/tricia-johansson/Music-album-interactive-card)
 
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U7EFVMW)
 
 *© Copyright Tricia Johansson*
