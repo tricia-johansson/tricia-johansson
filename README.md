@@ -3,7 +3,7 @@
 - 👀 I’m interested in coding, graphic design, and illustration. I'm especially interested in web development and building web apps and small browser games.
 - 🎨 I also like to code as an art form, building layouts, pages and such with the editor as a canvas waiting to be filled with code! Sometimes, the only purpose some of my coding projects have is to be viewed as artistic expression. Nothing more, nothing less. Not everything has to have a deep meaning or function...
 - 🌱 I’m currently learning JavaScript and PHP but also refreshing my CSS skills.
-- 📫 If you want to contact me, please go to my website http://trixjoyce.com
+- 📫 If you want to contact me, please go to my portfolio website http://triciajohansson.com or send a message through http://letterbird.co/triciajohansson
 - 😄 My pronouns are they/she.
 - ⚡ Fun fact: I used to work with coding and graphic design but it was like 10 years ago. Now I'm working on re-learning my skills.
 
@@ -54,6 +54,7 @@ One can not have too many interests 😄
 ## Experimental mini projects
 
 - Music album interactive card: [Source view on GitHub](https://github.com/tricia-johansson/Music-album-interactive-card)
+- Girl in a Cage: [Source view on GitHub](https://github.com/tricia-johansson/Girl-in-a-Cage)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U7EFVMW)
 
