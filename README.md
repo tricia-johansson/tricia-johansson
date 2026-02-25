@@ -50,11 +50,15 @@ One can not have too many interests 😄
 - Trix Adventures Blog: [Live view in Browser](https://tricia-johansson.github.io/Trix-Adventures/)
 - Avoranic Web: [Source view on GitHub](https://github.com/tricia-johansson/Avoranic-Web)
 - Late to Bloom: [Source view on GitHub](https://github.com/tricia-johansson/Late-to-Bloom) / [Live view in Browser](https://tricia-johansson.github.io/Late-to-Bloom/)
+- Trix Comix [Source view on GitHub](https://github.com/tricia-johansson/Trix-Comix)
 
 ## Experimental mini projects
 
 - Music album interactive card: [Source view on GitHub](https://github.com/tricia-johansson/Music-album-interactive-card)
 - Girl in a Cage: [Source view on GitHub](https://github.com/tricia-johansson/Girl-in-a-Cage)
+- Deli and Dalia card: [Source view on GitHub](https://github.com/tricia-johansson/Deli-and-Dalia-card)
+
+## Support me?
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U7EFVMW)
 
