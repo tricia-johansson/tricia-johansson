@@ -54,7 +54,7 @@ One can not have too many interests 😄
 
 ## Experimental mini projects
 
-- Music album interactive card: [Source view on GitHub](https://github.com/tricia-johansson/Music-album-interactive-card)
+- Music album interactive card: [Source view on GitHub](https://github.com/tricia-johansson/Music-album-interactive-card) / [Live view in Browser](https://tricia-johansson.github.io/Music-album-interactive-card)
 - Girl in a Cage: [Source view on GitHub](https://github.com/tricia-johansson/Girl-in-a-Cage)
 - Deli and Dalia card: [Source view on GitHub](https://github.com/tricia-johansson/Deli-and-Dalia-card)
 
