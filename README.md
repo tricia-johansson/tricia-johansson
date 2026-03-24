@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I used to work with coding and graphic design but it was like 10 years ago. Now I'm working on re-learning my skills.
 
 [![itch.io banner](https://img.itch.zone/aW1nLzE5MTM5NzAzLnBuZw==/original/3yDe2g.png)](https://trixjoyce.itch.io)
-Visit my projects (games and apps) on itch.io! http://trixjoyce.itch.io
+- Visit my projects (games and apps) on itch.io! http://trixjoyce.itch.io
 
 - My websites: www.triciajohansson.com & www.trixjoyce.com
 
