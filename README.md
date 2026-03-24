@@ -12,7 +12,7 @@ Visit my projects (games and apps) on itch.io! http://trixjoyce.itch.io
 
 - My websites: www.triciajohansson.com & www.trixjoyce.com
 
-I'm also on Neocities: http://trixaria.com
+- I'm also on Neocities: http://trixaria.com
 
 [![GIF](https://raw.githubusercontent.com/tricia-johansson/tricia-johansson/main/IMG_3856.GIF)](https://raw.githubusercontent.com/tricia-johansson/tricia-johansson/main/IMG_3856.GIF)
 
