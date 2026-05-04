@@ -36,27 +36,28 @@ One can not have too many interests 😄
 ## My main ongoing projects
 *Choose "source view" to read more about the project!*
 
-- World of Cagiu: [Source view on GitHub](https://github.com/tricia-johansson/World-of-Cagiu) / [Live view in Browser](https://tricia-johansson.github.io/World-of-Cagiu)
-- Adventures of Avoranic: [Source view on GitHub ](https://tricia-johansson.github.io/Adventures-of-Avoranic) / [Live view in Browser](https://tricia-johansson.github.io/Adventures-of-Avoranic)
-- Happiness Ninja: [Source view on GitHub](https://github.com/tricia-johansson/Happiness-Ninja) / [Live view in Browser](https://tricia-johansson.github.io/Happiness-Ninja)
-- Lunic Philosophy: [Source view on GitHub](https://github.com/tricia-johansson/Lunic-Philosophy) / [Live view in Browser](https://tricia-johansson.github.io/Lunic-Philosophy)
+- World of Cagiu: [The page on GitHub](https://github.com/tricia-johansson/World-of-Cagiu) / [Live view in Browser](https://tricia-johansson.github.io/World-of-Cagiu)
+- Adventures of Avoranic: [The page on GitHub ](https://tricia-johansson.github.io/Adventures-of-Avoranic) / [Live view in Browser](https://tricia-johansson.github.io/Adventures-of-Avoranic)
+- Happiness Ninja: [The page on GitHub](https://github.com/tricia-johansson/Happiness-Ninja) / [Live view in Browser](https://tricia-johansson.github.io/Happiness-Ninja)
+- Lunic Philosophy: [The page on GitHub](https://github.com/tricia-johansson/Lunic-Philosophy) / [Live view in Browser](https://tricia-johansson.github.io/Lunic-Philosophy)
 
 ## Other projects
 *Choose "source view" to read more about the project!*
 
-- Trixie and Truls: [Source view on GitHub](https://github.com/tricia-johansson/Trixie-and-Truls) / [Live view in Browser](https://tricia-johansson.github.io/Trixie-and-Truls)
-- Trix Time: [Source view on GitHub](https://github.com/tricia-johansson/Trix-Time) / [Live view in Browser](https://tricia-johansson.github.io/Trix-Time)
-- DissociaTRIX: [Source view on GithHub](https://github.com/tricia-johansson/DissociaTRIX)
+- Trixie and Truls: [The page on GitHub](https://github.com/tricia-johansson/Trixie-and-Truls) / [Live view in Browser](https://tricia-johansson.github.io/Trixie-and-Truls)
+- Trix Time: [The page on GitHub](https://github.com/tricia-johansson/Trix-Time) / [Live view in Browser](https://tricia-johansson.github.io/Trix-Time)
+- DissociaTRIX: [The page on GithHub](https://github.com/tricia-johansson/DissociaTRIX)
 - Trix Adventures Blog: [Live view in Browser](https://tricia-johansson.github.io/Trix-Adventures/)
-- Avoranic Web: [Source view on GitHub](https://github.com/tricia-johansson/Avoranic-Web)
-- Late to Bloom: [Source view on GitHub](https://github.com/tricia-johansson/Late-to-Bloom) / [Live view in Browser](https://tricia-johansson.github.io/Late-to-Bloom/)
-- Trix Comix [Source view on GitHub](https://github.com/tricia-johansson/Trix-Comix)
+- Avoranic Web: [The page on GitHub](https://github.com/tricia-johansson/Avoranic-Web)
+- Late to Bloom: [The page on GitHub](https://github.com/tricia-johansson/Late-to-Bloom) / [Live view in Browser](https://tricia-johansson.github.io/Late-to-Bloom/)
+- Trix Comix [The page on GitHub](https://github.com/tricia-johansson/Trix-Comix)
 
 ## Experimental mini projects
 
-- Music album interactive card: [Source view on GitHub](https://github.com/tricia-johansson/Music-album-interactive-card) / [Live view in Browser](https://tricia-johansson.github.io/Music-album-interactive-card)
-- Girl in a Cage: [Source view on GitHub](https://github.com/tricia-johansson/Girl-in-a-Cage)
-- Deli and Dalia card: [Source view on GitHub](https://github.com/tricia-johansson/Deli-and-Dalia-card)
+- Music album interactive card: [The page on GitHub](https://github.com/tricia-johansson/Music-album-interactive-card) / [Live view in Browser](https://tricia-johansson.github.io/Music-album-interactive-card)
+- Girl in a Cage: [The page on GitHub](https://github.com/tricia-johansson/Girl-in-a-Cage)
+- Deli and Dalia card: [The page on GitHub](https://github.com/tricia-johansson/Deli-and-Dalia-card)
+- This Girl is Contrary: [The page on GitHub](https://github.com/tricia-johansson/this-girl-is-contrary)
 
 ## Support me?
 
