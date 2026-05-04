@@ -50,7 +50,7 @@ One can not have too many interests 😄
 - Trix Adventures Blog: [Live view in Browser](https://tricia-johansson.github.io/Trix-Adventures/)
 - Avoranic Web: [The page on GitHub](https://github.com/tricia-johansson/Avoranic-Web)
 - Late to Bloom: [The page on GitHub](https://github.com/tricia-johansson/Late-to-Bloom) / [Live view in Browser](https://tricia-johansson.github.io/Late-to-Bloom/)
-- Trix Comix [The page on GitHub](https://github.com/tricia-johansson/Trix-Comix)
+- Trix Comix: [The page on GitHub](https://github.com/tricia-johansson/Trix-Comix)
 
 ## Experimental mini projects
 
