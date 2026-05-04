@@ -12,7 +12,11 @@
 
 - My websites: www.triciajohansson.com & www.trixjoyce.com
 
+# Other coding profiles
 - I'm also on Neocities: http://trixaria.com
+- Codepen: http://codepen.io/triciajohansson
+- OpenProcessing: https://openprocessing.org/user/596221#sketches
+- SoloLearn: https://www.sololearn.com/en/profile/17250751
 
 [![GIF](https://raw.githubusercontent.com/tricia-johansson/tricia-johansson/main/IMG_3856.GIF)](https://raw.githubusercontent.com/tricia-johansson/tricia-johansson/main/IMG_3856.GIF)
 
