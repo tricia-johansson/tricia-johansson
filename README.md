@@ -1,11 +1,11 @@
 # Basic info
-- 👋 Hi, I’m Tricia Johansson but online I go by the name Trix Joyce in most places.
+- 👋 Hi, I’m Lucas. I'm a trans man living in Gothenburg, Sweden. Sometimes I go by the name Trix Joyce online.
 - 👀 I’m interested in coding, graphic design, and illustration. I'm especially interested in web development and building web apps and small browser games.
 - 🎨 I also like to code as an art form, building layouts, pages and such with the editor as a canvas waiting to be filled with code! Sometimes, the only purpose some of my coding projects have is to be viewed as artistic expression. Nothing more, nothing less. Not everything has to have a deep meaning or function...
 - 🌱 I’m currently learning JavaScript and PHP but also refreshing my CSS skills.
 - 📫 If you want to contact me, please go to my portfolio website http://triciajohansson.com or send a message through http://letterbird.co/triciajohansson
-- 😄 My pronouns are they/she.
-- ⚡ Fun fact: I used to work with coding and graphic design but it was like 10 years ago. Now I'm working on re-learning my skills.
+- 😄 My pronouns are he/him.
+- ⚡ Fun fact: I used to work with coding and graphic design, but it was like 10 years ago. Now I'm working on re-learning my skills.
 
 [![itch.io banner](https://img.itch.zone/aW1nLzE5MTM5NzAzLnBuZw==/original/3yDe2g.png)](https://trixjoyce.itch.io)
 - Visit my projects (games and apps) on itch.io! http://trixjoyce.itch.io
