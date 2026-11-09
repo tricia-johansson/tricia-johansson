@@ -2,8 +2,8 @@
 - 👋 Hi, I’m Lucas. I'm a trans man living in Gothenburg, Sweden. Sometimes I go by the name Trix Joyce online.
 - 👀 I’m interested in coding, graphic design, and illustration. I'm especially interested in web development and building web apps and small browser games.
 - 🎨 I also like to code as an art form, building layouts, pages and such with the editor as a canvas waiting to be filled with code! Sometimes, the only purpose some of my coding projects have is to be viewed as artistic expression. Nothing more, nothing less. Not everything has to have a deep meaning or function...
-- 🌱 I’m currently learning JavaScript and PHP but also refreshing my CSS skills.
-- 📫 If you want to contact me, please go to my portfolio website http://triciajohansson.com or send a message through http://letterbird.co/triciajohansson
+- 🌱 I’m currently learning JavaScript and PHP, but also refreshing my CSS skills.
+- 📫 Contact info coming soon...
 - 😄 My pronouns are he/him.
 - ⚡ Fun fact: I used to work with coding and graphic design, but it was like 10 years ago. Now I'm working on re-learning my skills.
 
